@@ -146,4 +146,4 @@ thotagotchi/
 ## License
 
 MIT License.  
-© 2025 Kujo – Made for ThotCon 0xD
+© 2025 Kujo
