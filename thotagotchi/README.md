@@ -51,8 +51,8 @@ Use the touch wheel:
 1. **Clone the repo:**
 
     ```bash
-    git clone https://github.com/gigawatts/thotagotchi.git
-    cd thotagotchi
+    git clone https://github.com/gigawatts/thotcon-0xD.git
+    cd thotcon-0xD/thotagotchi
     ```
 2. **Modify the User_Setup.h file for the TFT (see below).**
 
